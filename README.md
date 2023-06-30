@@ -18,6 +18,3 @@ livz link : https://guydorveilmalonga.github.io/Portofolio/
 - https://unsplash.com/
 - https://michalsnik.github.io/aos/
 
-
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
