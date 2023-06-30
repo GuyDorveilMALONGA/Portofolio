@@ -1,11 +1,7 @@
 # Joncarter
 Beautiful HTML,CSS and Bootstrap Portfolio
 
-# Demo
-- https://joncarter.netlify.app/
-
-# Clone Project
-- https://github.com/SA7MAN/joncarter
+livz link : https://guydorveilmalonga.github.io/Portofolio/
 
 # Features
 - Fully Responsive
